@@ -37,3 +37,12 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.radio-element{
+    padding-left: 14px;
+}
+
+.card-row{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
